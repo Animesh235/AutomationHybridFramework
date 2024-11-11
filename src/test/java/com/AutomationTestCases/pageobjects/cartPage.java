@@ -7,6 +7,6 @@ public class cartPage {
  WebDriver pagedriver;
 	
 	public cartPage(WebDriver remotedriver) {
-		PageFactory.initElements(remotedriver, this);
+		PageFactory.initElements(remotedriver, this.pagedriver);
  }
 }

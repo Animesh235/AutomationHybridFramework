@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="E2eTestScript">
+  <test name="E2eTest">
+    <classes>
+      <class name="com.AutomationTestCases.testscripts.E2eTestScript"/>
+    </classes>
+  </test> <!-- E2eTest -->
+</suite> <!-- E2eTestScript -->
