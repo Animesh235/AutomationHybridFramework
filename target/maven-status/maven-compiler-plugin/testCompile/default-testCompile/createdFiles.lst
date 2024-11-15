@@ -1,0 +1,9 @@
+com\AutomationTestCases\pageobjects\productsPage.class
+com\AutomationTestCases\pageobjects\cartPage.class
+com\AutomationTestCases\pageobjects\homePage.class
+com\AutomationTestCases\utilities\ReadConfig.class
+com\AutomationTestCases\pageobjects\signupLoginPage.class
+com\AutomationTestCases\pageobjects\contactUsPage.class
+com\AutomationTestCases\testscripts\E2eTestScript.class
+com\AutomationTestCases\testscripts\BaseClass.class
+com\AutomationTestCases\utilities\ExtentListenerClass.class
